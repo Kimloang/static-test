@@ -1,0 +1,2 @@
+# static-test
+Sample test
